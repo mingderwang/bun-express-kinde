@@ -1,7 +1,8 @@
 {
   "name": "bun-express-kinde",
-  "module": "index.ts",
-  "version": "v0.0.1",
+  "module": "server.ts",
+  "version": "0.0.1",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "bun server.ts --watch"
